@@ -66,7 +66,7 @@ Direct use of numpy.linalg routines; relate to linear regression normal equation
 
 
 
-## PROGRAM 
+## INPUT
 
 
 
